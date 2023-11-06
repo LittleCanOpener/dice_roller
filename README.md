@@ -1,13 +1,13 @@
-# Dice Roller
-Dart & Flutter Project
-<h1>Placeholder</h1>
+# Dice Roller - Dart & Flutter Project
+<h1>Preview</h1>
+<img src="./assets/images/screenshots/preview.png"><br>
 <h2>Placeholder</h2>
 <p>
     Placeholder
 </p>
 <table>
   <tr>
-    <th>Assignment 1.</th>
+    <th>Main</th>
   </tr>
   <tr>
     <td>Placeholder</td>
@@ -17,22 +17,29 @@ Dart & Flutter Project
   </tr>
     <tr>
       <td>
-        <img src="#"><br>
-        <img src="#"><br>
+        <img src="./assets/images/screenshots/main.png"><br>
       </td>
   </tr>
   <tr>
-    <th>Assignment 2.</th>
+    <th>Roll Dice</th>
   </tr>
   <tr>
     <td>Placeholder.<br>
   </tr>
   <tr>
-      <th>Assignment 2 Results.</th>
+      <td>
+        <img src="./assets/images/screenshots/rolldice.png"><br>
+        <img src="./assets/images/screenshots/rolldice1.png"><br>
+      </td>
+  </tr>
+      <th>Container</th>
+  </tr>
+  <tr>
+    <td>Placeholder.<br>
   </tr>
   <tr>
       <td>
-        <img src="#"><br>
+        <img src="./assets/images/screenshots/container.png"><br>
       </td>
   </tr>
 </table>
