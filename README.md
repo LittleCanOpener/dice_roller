@@ -2,15 +2,9 @@
 <h1>Preview</h1>
 <img src="./assets/images/screenshots/preview.png"><br>
 <h2>Placeholder</h2>
-<p>
-    Placeholder
-</p>
 <table>
   <tr>
     <th>Main</th>
-  </tr>
-  <tr>
-    <td>Placeholder</td>
   </tr>
     <tr>
       <td>
@@ -21,18 +15,12 @@
     <th>Roll Dice</th>
   </tr>
   <tr>
-    <td>Placeholder.<br>
-  </tr>
-  <tr>
       <td>
         <img src="./assets/images/screenshots/rolldice.png"><br>
         <img src="./assets/images/screenshots/rolldice1.png"><br>
       </td>
   </tr>
       <th>Container</th>
-  </tr>
-  <tr>
-    <td>Placeholder.<br>
   </tr>
   <tr>
       <td>
