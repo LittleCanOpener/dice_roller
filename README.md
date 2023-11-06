@@ -65,8 +65,7 @@ Dart & Flutter Project
     <li>
         <h3>Flutter</h3><p>
         <img src="assets/images/icons/flutter.png" width="140px" height="40x"><br>
-        Why <a href="#" target="_blank">Flutter</a>:<br>Placeholder<br>
-        <small><a href="#" target="_blank">Download here</a></small>
+        Why <a href="https://docs.flutter.dev/" target="_blank">Flutter</a>:<br>Allows developers to build a single codebase and use it for several platforms such as the web, desktop and mobile. This results in quicker app launch and is cost effective. Reduced Development Time: The requirements for Flutter application development are much lower.<br>
         </p><hr>
     </li>
 </ol>
