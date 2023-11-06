@@ -68,4 +68,11 @@ Dart & Flutter Project
         Why <a href="https://docs.flutter.dev/" target="_blank">Flutter</a>:<br>Allows developers to build a single codebase and use it for several platforms such as the web, desktop and mobile. This results in quicker app launch and is cost effective. Reduced Development Time: The requirements for Flutter application development are much lower.<br>
         </p><hr>
     </li>
+        <li>
+        <h3>Android Studio</h3><p>
+        <img src="assets/images/icons/androidstudio.png" width="40px" height="40x"><br>
+        Why <a href="https://docs.flutter.dev/" target="_blank">Android Studio</a>:<br>Android Studio helps you debug and improve the performance of your code, including inline debugging and performance analysis tools.<br>
+        <small><a href="https://developer.android.com/studio" target="_blank">Download here</a></small>
+        </p><hr>
+    </li>
 </ol>
