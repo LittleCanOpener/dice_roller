@@ -12,9 +12,6 @@
   <tr>
     <td>Placeholder</td>
   </tr>
-  <tr>
-    <th>Assignment 1 Placeholder.</th>
-  </tr>
     <tr>
       <td>
         <img src="./assets/images/screenshots/main.png"><br>
